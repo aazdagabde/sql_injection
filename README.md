@@ -1,6 +1,7 @@
 # SQL Injection Test Project 🔧
 
 This project was developed by **Aazdag Abdellah** and **Salma Bousslama** as part of the "Information Security" course. The objective is to demonstrate and test web application vulnerabilities against SQL injection attacks.
+Supervised by: Ms. Elaissaoui Hayat
 
 ## Technologies Used 🛠
 - **Language**: PHP
