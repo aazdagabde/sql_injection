@@ -49,9 +49,7 @@ This project was developed by **Aazdag Abdellah** and **Salma Bousslama** as par
    INSERT INTO users (nom, prenom, age, email, login, password) VALUES
    ('aazdag', 'abdellah', 21, 'aazdag.23@gmail.com', 'aazdag23', 'aazdag23'),
    ('bousslama', 'salma', 21, 'bousslama.salma.23@ump.ac.ma', 'salma23', 'salma23'),
-   ('ben ahmed', 'ahmed', 24, 'ahmed23@gmail.com', 'ahmed23', 'ahmed23'),
-   ('bomazogh', 'fatima ezzahrae', 19, 'fatima.ezzahrae23@gmail.com', 'fatima_ezzahrae23', 'fatima_ezzahrae23'),
-   ('admin', 'admin', 2, 'admin.itirc.2024@ump.ac.ma', 'admin', 'admin');
+   ('ben ahmed', 'ahmed', 24, 'ahmed23@gmail.com', 'ahmed23', 'ahmed23');
    ```
 
 4. Verify that the data has been imported successfully.
