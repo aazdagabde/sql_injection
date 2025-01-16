@@ -19,7 +19,7 @@ This project was developed by **Aazdag Abdellah** and **Salma Bousslama** as par
 
 1. Clone the GitHub repository:
    ```bash
-   git clone https://github.com/username/sql-injection-test.git
+   git clone https://github.com/aazdagabde/sql_injection.git
    ```
 2. Move the cloned folder to the `htdocs` directory in XAMPP:
    ```bash
